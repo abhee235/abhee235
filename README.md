@@ -46,7 +46,7 @@ A desk pet for Claude Code. It thinks, works, waves when a session needs you and
 
 ## `~/stats`
 
-<img src="assets/stats.svg" width="100%" alt="1,861 contributions in the last year, across 172 active days, with a best streak of 17 days. Per month: Dec 2025 52, Jan 2026 61, Feb 2026 8, Mar 2026 24, Apr 2026 124, May 2026 29, Jun 2026 79, Jul 2026 250, Aug 2026 211, Sep 2026 163, Oct 2026 565, Nov 2026 292. Code by language in public repos: TypeScript 79.9%, JavaScript 5.5%, Python 3.8%, Rust 2.1%, C# 1.6%, Other 7.1%.">
+<img src="assets/stats.svg" width="100%" alt="1,869 contributions in the last year, across 172 active days, with a best streak of 17 days. Per month: Dec 2025 52, Jan 2026 61, Feb 2026 8, Mar 2026 24, Apr 2026 124, May 2026 29, Jun 2026 79, Jul 2026 250, Aug 2026 211, Sep 2026 163, Oct 2026 565, Nov 2026 300. Code by language in public repos: TypeScript 79.8%, JavaScript 5.5%, Python 3.8%, Rust 2.1%, C# 1.6%, Other 7.2%.">
 
 ## `~/principles.ts`
 
